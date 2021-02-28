@@ -1,0 +1,7 @@
+name: ExplodingEntities
+version: 1.0
+main: com.Jacrispys.ExplodingEntities.ExplodingEntitiesMain
+author: Jacrispys
+commands:
+  ExplodeEverything:
+    aliases: [ee, exev]
